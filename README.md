@@ -1,4 +1,4 @@
-![logo](https://github.com/Sultan-Iftikhar/Sultan-Iftikhar/blob/main/README.md)
+![logo]([https://github.com/Sultan-Iftikhar/Sultan-Iftikhar/blob/main/README.md](https://github.com/Sultan-Iftikhar/Sultan-Iftikhar/blob/main/banner.png))
 <h1 align="center">Hi 👋, I'm Sultan Iftikhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
