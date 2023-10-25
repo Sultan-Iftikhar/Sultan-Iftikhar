@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **MERN stack**
-
 - 📫 How to reach me **sultaniftikhar918@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
