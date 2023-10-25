@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Iftikhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0moAvXRcI0DNR2My7wt0S8&ust=1698313612304000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDzua71kIIDFQAAAAAdAAAAABAE" />
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0moAvXRcI0DNR2My7wt0S8&ust=1698313612304000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDzua71kIIDFQAAAAAdAAAAABAE" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultan-iftikhar&label=Profile%20views&color=0e75b6&style=flat" alt="sultan-iftikhar" /> </p>
 
