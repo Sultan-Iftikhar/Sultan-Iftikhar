@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sultaniftikhar918@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences https://drive.google.com/file/d/1zFW8LkJajS7HtX3hDVr3kGhh3fNDLuyT/view?usp=sharing
 
 - ⚡ Fun fact **I am funny 😂**
 
